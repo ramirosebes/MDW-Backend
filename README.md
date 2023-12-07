@@ -1,4 +1,4 @@
-# Metodologias y Desarrollo Web
+# Final Backend
 Se desarrollo una API que a través de distintos endpoints permite el CRUD de productos mediante distintos endpoints.
 
 ## Instalación y uso
