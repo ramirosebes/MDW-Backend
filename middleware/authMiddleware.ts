@@ -12,7 +12,7 @@ const verifyToken = async (req: Request, res: Response, next: NextFunction) => {
       await admin.auth().verifyIdToken(idToken);
       next();
     } catch (error) {
-      res.status(401).json({ error: "Token invalido " + idToken });
+      res.status(401).json({ error: "Invalid token " + idToken });
     }
   };
   
