@@ -1,4 +1,4 @@
-import { Request, Response } from "express";
+import { Request, Response} from "express";
 import productModel from "../../models/product/product";
 
 const productController = {
