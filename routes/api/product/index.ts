@@ -4,8 +4,6 @@ import { verifyToken } from "../../../middleware/authMiddleware";
 
 const router = Router();
 
-//router.use(verifyToken);
-
 router.get("/", productController.getAllProducts);
 router.get("/:id", productController.getProductById);
 router.post("/", verifyToken, productController.createProduct);

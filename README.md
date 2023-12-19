@@ -1,4 +1,6 @@
-# Final Backend
+# Metodologias y Desarrollo Web - Final Backend
+> Serveridor
+
 Se desarrollo una API que a través de distintos endpoints permite el CRUD de productos mediante distintos endpoints.
 
 ## Instalación y uso
@@ -40,4 +42,8 @@ https://github.com/ramirosebes/MCGA-Backend.git
 * Node.js
 * TypeScrit
 * Express
-* MongoDB (Database)
+* MongoDB
+* Mongoose
+* Firebase
+* Dotenv
+* Cors
