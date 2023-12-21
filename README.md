@@ -33,9 +33,10 @@ npm start
     * PUT: Adjuntando /:id al endpoint y un body que corresponda con los campos del producto, lo actualiza
     * DELETE: Adjuntando /:id al endpoint, elimina el producto
 
-## Repositorio
+## Repositorios
 
-https://github.com/ramirosebes/MCGA-Backend.git
+#### [Metodologias y Desarrollo Web - Final Frontend](https://github.com/ramirosebes/MCGA-Frontend)
+#### [Metodologias y Desarrollo Web - Final Backend](https://github.com/ramirosebes/MCGA-Backend)
 
 ## Tecnologias
 
@@ -47,3 +48,11 @@ https://github.com/ramirosebes/MCGA-Backend.git
 * Firebase
 * Dotenv
 * Cors
+
+## Autores
+
+| Nombre | Mail     | Github                | LinkedIn                |
+| :-------- | :------- | :------------------------- | :------------------------- |
+| Antuna Juan Manuel | altunajuan@gmail.com | [@Venineitor2000](https://github.com/Venineitor2000) | [Antuna Juan Manuel](https://www.linkedin.com/in//) |
+| Miñón Lorenzo | nicolasmicheletti@gmail.com | [@LorenzoMinon](lorenzominon01@gmail.com) | [Miñón Lorenzo](https://www.linkedin.com/in/lorenzominon/) |
+| Sebes Ramiro Nicolás | ramirosebes@gmail.com | [@ramirosebes](https://github.com/ramirosebes) | [Sebes Ramiro Nicolás](https://www.linkedin.com/in/ramirosebes) |
